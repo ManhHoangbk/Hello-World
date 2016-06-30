@@ -1,3 +1,3 @@
 # Hello-World
-#thí í new post
+#this is new post
 Just another repository
